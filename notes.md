@@ -1,0 +1,2 @@
+- difference between document.querySelector and jQuery
+- remove yellow ! in script
